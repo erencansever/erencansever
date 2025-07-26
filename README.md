@@ -1,80 +1,61 @@
-<h1 align="center">Hey 👋 I'm Eren Batu Cansever</h1>
+<h1 align="center">Hi, I'm Eren Batu Cansever 👋</h1>
 
 <p align="center">
-🎓 Computer Engineering student @ Sabancı University  
-🧠 Focused on automation, backend systems, and data workflows  
-🛠️ I build intelligent scrapers, data pipelines, and full-stack tools  
+🎓 Computer Engineering student at <strong>Sabancı University</strong>  
+💻 Passionate about <strong>backend systems</strong>, <strong>automation</strong>, and <strong>AI-driven tools</strong>  
+🌍 I build intelligent scrapers, hybrid database platforms, and scalable workflows  
 </p>
 
 ---
 
-## 🧠 What I Work On
-
-- Web scraping with **Python**, **Selenium**, and **BeautifulSoup**
-- Building full-stack applications using **MongoDB**, **MySQL**, **PHP**, and **Docker**
-- Designing responsive web interfaces with **React Native** & **TypeScript**
-- System-level modeling and design with **C++** and **Verilog**
-- Creating dynamic dashboards and automation tools for structured/unstructured data
+<p align="center">
+  🚀 Check out my portfolio website  
+  <br><br>
+  <a href="https://erencansever.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 erencansever.github.io-blueviolet?style=for-the-badge&logo=github" alt="Portfolio Badge">
+  </a>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🧠 About Me
+
+I'm a curious builder who enjoys turning ideas into working systems.  
+Whether it's scraping dynamic websites, syncing MongoDB and MySQL in real-time, or applying LLMs to call center data — I love creating tools that solve real problems.
+
+Currently focused on:
+- ✅ Python automation and API development  
+- ✅ Full-stack data systems with Docker, MongoDB, MySQL  
+- ✅ Embedding-based NLP, vector search, and clustering
+
+---
+
+## 💼 Featured Projects
 
 ### 🕷️ Web Crawler Toolkit  
-A dynamic and reusable Python-based web scraper:
-- Extracts event data from sites like Biletix
-- Handles JavaScript-heavy pages with headless browsing
-- Outputs structured JSON data ready for processing
-
-> `Python · Selenium · BeautifulSoup · Automation · JSON`
-
-🔗 [View Repository](https://github.com/erencansever/web-crawler-toolkit)
+Scraper that handles JavaScript-heavy websites like Biletix with headless Selenium, exports structured JSON data ready for analysis or ML pipelines.  
+🔗 [GitHub Repo](https://github.com/erencansever/web-crawler-toolkit)
 
 ---
 
-### 🛒 MongoDB + MySQL E-Commerce Backend  
-A hybrid data platform that:
-- Simultaneously stores and queries data in **MongoDB** and **MySQL**
-- Uses stored procedures, triggers, and dynamic web forms
-- Integrates with a clean frontend built using HTML/CSS and Dockerized PHP
-
-> `MongoDB · MySQL · PHP · Docker · Web Interfaces`
-
-🔗 [View Repository](https://github.com/erencansever/ecommerce-data-system)
+### 🛒 Hybrid E-Commerce Backend  
+A backend system that writes and syncs customer/product/payment data across MongoDB & MySQL.  
+Built with PHP, Docker, triggers, and dynamic HTML interfaces.  
+🔗 [GitHub Repo](https://github.com/erencansever/ecommerce-data-system)
 
 ---
 
-## ⚙️ Tech Stack
-
-| Area        | Technologies                                                  |
-|-------------|---------------------------------------------------------------|
-| Languages   | Python, C++, JavaScript, SQL, Verilog                         |
-| Backend     | FastAPI, PHP, Flask                                           |
-| Databases   | MongoDB, MySQL                                                |
-| Frontend    | React Native, TypeScript, HTML/CSS                            |
-| Dev Tools   | Docker, Git, GitHub, XAMPP, Selenium, Figma                   |
+### 🧠 AI-Powered Call Transcript Analyzer  
+Processes real call center transcripts using UMAP, HDBSCAN, embeddings and LLMs like LLaMA3 or BGE-M3 via FastAPI.  
+🔗 [GitHub Repo](https://github.com/erencansever)
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erencansever&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erencansever&layout=compact&theme=tokyonight" />
-</p>
+- 🌐 Portfolio: [erencansever.github.io](https://erencansever.github.io)  
+- 💼 LinkedIn: [eren-batu-cansever](https://linkedin.com/in/eren-batu-cansever-649b80245)  
+- 🧑‍💻 GitHub: [@erencansever](https://github.com/erencansever)
 
----
-
-## 🎉 Fun Facts
-
-- I love turning repetitive tasks into one-click automations ☕  
-- I once scraped 150+ pages just to avoid manual copy-paste 😎
-
----
-
-<p align="center">
-📫 Let’s connect on <a href="https://www.linkedin.com/in/eren-batu-cansever-649b80245/">LinkedIn</a> • Visit my <a href="https://github.com/erencansever">GitHub</a>
-</p>
 
 
