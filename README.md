@@ -1,73 +1,77 @@
-<h1 align="center">Hi there 👋 I'm Eren!</h1>
+<h1 align="center">Hey, I'm Eren Batu Cansever 👋</h1>
 
 <p align="center">
-🎓 3rd-year Computer Science student @ Sabancı University  
-💡 Passionate about AI, data engineering, and software automation  
-🌍 I build intelligent crawlers and smart database-backed systems  
+🎓 Computer Engineering student @ Sabancı University  
+🛠️ I design automated systems, data pipelines, and interactive web tools  
+🌍 Passionate about data-driven development, backend engineering, and scalable architectures  
 </p>
 
 ---
 
-## 🧠 What I'm Capable Of
+## 🔧 Technical Overview
 
-- Automating repetitive tasks with Python, web scraping, and APIs  
-- Designing and deploying full-stack applications (MongoDB, MySQL, FastAPI, React)  
-- Building interactive frontends with React Native & TypeScript  
-- Modeling digital systems with Verilog  
-- Working with both structured and unstructured data pipelines  
-
----
-
-## 🚀 Featured Projects
-
-### 🕷️ Web Crawler Toolkit
-A customizable crawler framework designed to:
-- Extract event data (e.g., Biletix) with Selenium
-- Handle JavaScript-heavy dynamic pages
-- Export clean and structured JSON files for further processing
-
-> `Python · Selenium · BeautifulSoup · JSON · Automation`
-
-🔗 [View Repository](https://github.com/zeynepdnnz/web-crawler-toolkit)
-
-
-### 🛒 Hybrid E-commerce Data System (MongoDB + MySQL)
-An integrated data project that:
-- Stores customer, product, payment, and transaction data
-- Inserts data to both MongoDB and MySQL simultaneously via a custom PHP interface
-- Uses triggers, procedures, and JSON APIs to manage backend logic
-- Includes a dynamic frontend for data entry and visualization
-
-> `MongoDB · MySQL · PHP · HTML · Docker · XAMPP`
-
-🔗 [View Repository](https://github.com/zeynepdnnz/ecommerce-data-system)
+- 🐍 Python scripting for automation, web scraping, and data processing  
+- 🌐 Full-stack app development with FastAPI, MongoDB, MySQL, PHP, and Docker  
+- 🎯 Algorithmic thinking with C++ and system-level implementation in Verilog  
+- 📊 Experience with modern frontend tools like React Native & TypeScript  
+- 💻 Comfortable with Git, Linux CLI, and workflow automation
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 Highlighted Projects
 
-- **Languages**: Python · C++ · JavaScript · SQL · Verilog  
-- **Frameworks**: React Native · FastAPI · Flask  
-- **Databases**: MongoDB · MySQL  
-- **Tools**: Docker · Git · GitHub · Figma · Selenium · BeautifulSoup  
+### 🕷️ Smart Web Crawler Framework  
+Custom-built system that:
+- Scrapes dynamic event data (e.g., from Biletix) using headless Selenium  
+- Structures raw HTML data into clean JSON formats  
+- Modular design for reusability in different domains
+
+> `Python · Selenium · BeautifulSoup · Automation · JSON`
+
+🔗 [View Project](https://github.com/zeynepdnnz/web-crawler-toolkit)
 
 ---
 
-## 📈 GitHub Stats
+### 🛒 MongoDB & MySQL Hybrid E-Commerce System  
+A full-stack data integration project that:
+- Handles customer/product/order/payment data in both SQL & NoSQL simultaneously  
+- Supports smart triggers, stored procedures, and dynamic interfaces  
+- Designed for real-time analytics, dashboard queries, and automation logic
+
+> `MongoDB · MySQL · PHP · Docker · HTML/CSS · Triggers & Procedures`
+
+🔗 [View Project](https://github.com/zeynepdnnz/ecommerce-data-system)
+
+---
+
+## 💡 Tools & Technologies
+
+| Area         | Stack                                                      |
+|--------------|------------------------------------------------------------|
+| Languages    | Python, C++, JavaScript, SQL, Verilog                      |
+| Backend      | FastAPI, Flask, PHP, Docker                                |
+| Databases    | MongoDB, MySQL                                             |
+| Frontend     | React Native, TypeScript, HTML/CSS                         |
+| Dev Tools    | Git, GitHub, XAMPP, Selenium, Figma                        |
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepdnnz&show_icons=true&theme=tokyonight" alt="Zeynep's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynepdnnz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepdnnz&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🎉 Fun Facts
+## 🎯 Fun Facts
 
-- I automate things that bore me 😴  
-- I once debugged a PHP-MongoDB conflict at 2am and called it “growth” 🔧
+- Once debugged a multi-database sync bug at 3am because “why not?” ☕  
+- Finds joy in structuring chaos — especially messy data  
 
 ---
 
-<p align="center">📫 Let’s connect: <a href="https://linkedin.com/in/zeynepdnnz">LinkedIn</a> • <a href="https://zeynepdnnz.github.io">Portfolio Website</a></p>
+<p align="center">📫 Connect with me on <a href="https://www.linkedin.com/in/eren-batu-cansever-649b80245/">LinkedIn</a> • Visit my <a href="https://erencansever.github.io">Portfolio Website</a></p>
+
