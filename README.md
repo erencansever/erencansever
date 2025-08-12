@@ -33,6 +33,8 @@ Currently focused on:
 
 ## Featured Projects
 
+### 
+
 ### 🕷️ Web Crawler Toolkit  
 Scraper that handles JavaScript-heavy websites like Biletix with headless Selenium, exports structured JSON data ready for analysis or ML pipelines.  
 🔗 [GitHub Repo](https://github.com/erencansever/web-crawler-toolkit)
